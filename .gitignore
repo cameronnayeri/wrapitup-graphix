@@ -1,0 +1,12 @@
+# Behind-the-scenes / not part of the site
+HANDOFF.md
+download_images.sh
+export_mockups.py
+mockups/
+__pycache__/
+*.pyc
+
+# OS cruft
+.DS_Store
+**/.DS_Store
+Thumbs.db
